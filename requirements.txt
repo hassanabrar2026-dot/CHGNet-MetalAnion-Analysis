@@ -1,0 +1,4 @@
+chgnet
+pymatgen
+ase
+numpy
